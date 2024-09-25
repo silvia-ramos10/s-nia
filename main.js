@@ -6,7 +6,7 @@ function areaQuadrado(lado){
     return lado**2;
 }
 console.log(areaQuadrado(9));
-
+parseInt(prompt('?'))
 let media=function media(x,y,z){
     return x+y+z/3;
 }
