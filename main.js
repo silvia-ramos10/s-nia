@@ -6,7 +6,8 @@ function areaQuadrado(lado){
     return areaQuadrado(lado**2)
 }
 console.log(areaQuadrado(9));
-let media=funcion soma(num1,num2){
-    return num1+num2;
+
+let media=funcion media(x,y,z){
+    return media (x+y+z/3);
 }
-console.log(soma(34,67));
+console.log(media(2,4,3));
