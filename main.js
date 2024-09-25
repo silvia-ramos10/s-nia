@@ -8,7 +8,7 @@ function areaQuadrado(lado){
 console.log(areaQuadrado(9));
 
 let media=function media(x,y,z){
-    return x+y+z/3;
+    return (x+y+z)/3;
 }
 console.log(media(2,4,3));
 parseInt(prompt('?'))
