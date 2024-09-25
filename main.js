@@ -9,4 +9,4 @@ console.log(areaQuadrado(9));
 let media=funcion soma(num1,num2){
     return num1+num2;
 }
-console.log(soma(34,67))
+console.log(soma(34,67));
