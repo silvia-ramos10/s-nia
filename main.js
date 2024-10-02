@@ -21,7 +21,7 @@ while (i < estados.length) {
 i++;
 }
 for (let i = 0; i < estados.length; i++) {
-    const element = array[i];
+    const element = estados[i];
     console.log(i);
     console.log(estados[i]);
 }
