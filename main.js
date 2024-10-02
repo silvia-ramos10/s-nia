@@ -13,15 +13,15 @@
 // }
 // console.log(media(2,4,3));
 // parseInt(prompt('?'))
-let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO']
-let i = 0;
-while (i < estados.length) {
-    console.log(i);
-    console.log(estados[i]);
-i++;
-}
-for (let i = 0; i < estados.length; i++) {
-    const element = estados[i];
-    console.log(i);
-    console.log(estados[i]);
-}
+// let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO']
+// let i = 0;
+// while (i < estados.length) {
+//     console.log(i);
+//     console.log(estados[i]);
+// i++;
+// }
+// for (let i = 0; i < estados.length; i++) {
+//     const element = estados[i];
+//     console.log(i);
+//     console.log(estados[i]);
+// }
